@@ -1,3 +1,8 @@
+Hey, There I made a mini atm here you can register account, login the account and can wihtdraw, deposit, check the balance of your account
+your info will saved to the path of your cpp file
+
+
+How iy Works:??
 It includes necessary header files for input/output, string manipulation, file handling, and vectors.
 
 It defines a struct called Account to represent user account information, including the full name, PIN, and balance.
