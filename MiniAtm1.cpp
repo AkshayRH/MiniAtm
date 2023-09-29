@@ -5,8 +5,6 @@
 #include<vector>
 using namespace std;
 
-//This Code is Not Perfect, it is Still in Testing and Under-Development//
-
 struct Account {
     string fullName;
     string pin;
@@ -210,5 +208,4 @@ int findAccount(const string& user, const string& pass) {
     return -1; 
 }
 
-//Stage://
-//Finalizing and Testing The code//
+
